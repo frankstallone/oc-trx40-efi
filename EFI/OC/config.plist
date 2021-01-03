@@ -483,7 +483,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>alcid=1</string>
+				<string></string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
@@ -548,7 +548,7 @@
 		<key>Automatic</key>
 		<true/>
 		<key>CustomMemory</key>
-		<true/>
+		<false/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
